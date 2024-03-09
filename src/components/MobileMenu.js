@@ -125,12 +125,14 @@ class MobileMenu extends Component {
                     <ul className="header-contact-info__list">
                       <li>
                         <i className="ion-android-phone-portrait" />{' '}
-                        <a href="tel://12452456012">(1245) 2456 012 </a>
+                        <a href="tel://12452456012">
+                          +256752017044 / +256773527950
+                        </a>
                       </li>
                       <li>
                         <i className="ion-android-mail" />{' '}
-                        <a href="mailto:info@yourdomain.com">
-                          info@yourdomain.com
+                        <a href="mailto:tritracengineersltd@gmail.com">
+                          tritracengineersltd@gmail.com
                         </a>
                       </li>
                     </ul>
